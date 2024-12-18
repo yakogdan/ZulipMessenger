@@ -1,0 +1,9 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Messenger" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/mint</item>
+        <item name="android:statusBarColor">@color/dark_grey_background</item>
+    </style>
+
+    <style name="Theme.Messenger" parent="Base.Theme.Messenger" />
+</resources>

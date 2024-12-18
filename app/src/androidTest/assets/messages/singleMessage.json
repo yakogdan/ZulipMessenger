@@ -1,0 +1,33 @@
+{
+  "result": "success",
+  "msg": "",
+  "messages": [
+    {
+      "id": 438637538,
+      "sender_id": 709699,
+      "content": "data from wireMock",
+      "recipient_id": 1252628,
+      "timestamp": 1715713986,
+      "client": "okhttp",
+      "subject": "(без темы)",
+      "topic_links": [],
+      "is_me_message": false,
+      "reactions": [],
+      "submessages": [],
+      "flags": [],
+      "sender_full_name": "Dmitry Kucherenko",
+      "sender_email": "user709699@tinkoff-android-spring-2024.zulipchat.com",
+      "sender_realm_str": "tinkoff-android-spring-2024",
+      "display_recipient": "general",
+      "type": "stream",
+      "stream_id": 432915,
+      "avatar_url": "https://secure.gravatar.com/avatar/2cedebe6e3ceaaa1fb35d18887a2b3b7?d=identicon&version=1",
+      "content_type": "text/x-markdown"
+    }
+  ],
+  "found_anchor": false,
+  "found_oldest": false,
+  "found_newest": true,
+  "history_limited": false,
+  "anchor": 10000000000000000
+}

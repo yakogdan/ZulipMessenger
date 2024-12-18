@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="mint">#2A9D8F</color>
+
+    <!-- Background -->
+    <color name="dark_background">#121212</color>
+    <color name="dark_grey_background">#1E1E1E</color>
+
+    <color name="light_grey">#EAEAEA</color>
+
+    <color name="dialog_grey">#555555</color>
+
+    <color name="dark_grey_card">#1C1C1C</color>
+    <color name="grey_card">#3A3A3A</color>
+    <color name="msg_grey_card">#282828</color>
+    <color name="black_card">#070707</color>
+
+    <color name="grey">#919191</color>
+
+    <color name="green_tab_indicator">#219653</color>
+
+    <!--    Status-->
+    <color name="green_status_active">#4AB54D</color>
+    <color name="red_status_offline">#E43E3E</color>
+    <color name="grey_status_gradient">#6A6969</color>
+
+    <color name="grey_email">#A1A1A1</color>
+</resources>

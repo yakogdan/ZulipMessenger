@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Messenger</string>
+    <string name="user_photo">Фото пользователя</string>
+    <string name="remove_dialog">Закрыть диалог</string>
+    <string name="send_message">Отправить сообщение</string>
+    <string name="write">Написать…</string>
+    <string name="channels">Channels</string>
+    <string name="people">People</string>
+    <string name="profile">Profile</string>
+    <string name="search">Search…</string>
+    <string name="all_streams">All streams</string>
+    <string name="subscribed">Subscribed</string>
+    <string name="show_topics">Показать топики</string>
+    <string name="users">Users…</string>
+    <string name="user_status">Статус пользователя</string>
+    <string name="close_screen">Закрыть экран</string>
+    <string name="default_topic_name">(без темы)</string>
+</resources>

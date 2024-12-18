@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="reaction_view_padding">8dp</dimen>
+    <dimen name="default_indent">8dp</dimen>
+    <dimen name="avatar_size">37dp</dimen>
+    <dimen name="user_avatar_size">64dp</dimen>
+    <dimen name="default_horizontal_margin">50dp</dimen>
+    <dimen name="bottom_indent">16dp</dimen>
+    <dimen name="card_corners_radius">16dp</dimen>
+    <dimen name="bottom_sheet_dialog_height">346dp</dimen>
+    <dimen name="emoji_dialog_text_size">40sp</dimen>
+    <dimen name="status_circle_size">17dp</dimen>
+    <dimen name="status_gradient_circle_size">21dp</dimen>
+    <dimen name="profile_avatar_size">185dp</dimen>
+    <dimen name="add_reaction_side">32dp</dimen>
+</resources>

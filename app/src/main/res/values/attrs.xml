@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="EmojiView">
+        <attr name="emoji" format="string" />
+        <attr name="count" format="integer" />
+    </declare-styleable>
+</resources>

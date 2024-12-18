@@ -1,0 +1,24 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <shape android:shape="oval">
+            <gradient
+                android:angle="315"
+                android:endColor="@color/dark_background"
+                android:startColor="@color/grey_status_gradient" />
+            <size
+                android:width="@dimen/status_gradient_circle_size"
+                android:height="@dimen/status_gradient_circle_size" />
+        </shape>
+    </item>
+
+    <item android:gravity="center">
+        <shape android:shape="oval">
+            <solid android:color="@color/green_status_active" />
+            <size
+                android:width="@dimen/status_circle_size"
+                android:height="@dimen/status_circle_size" />
+        </shape>
+    </item>
+
+</layer-list>
