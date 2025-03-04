@@ -12,8 +12,6 @@ data class ReactionDTO(
     val emojiName: String,
     @SerialName("reaction_type")
     val reactionType: String,
-    @SerialName("user")
-    val user: UserDTO,
     @SerialName("user_id")
     val userId: Int,
 )
